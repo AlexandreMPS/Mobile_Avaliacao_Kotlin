@@ -10,7 +10,11 @@
     <string name="welcomeMSG">Bem vindo:</string>
     <string name="store">Use seus pontos</string>
     <string name="user_points">3000</string>
-    <string name="history">Histórico</string>
+    <string name="register">Cadastrar</string>
     <string name="your_points">Seus pontos:</string>
     <string name="buy">COMPRAR</string>
+    <string name="item_name">Nome do Item</string>
+    <string name="item_price">Preço do Item</string>
+    <string name="item_register">Cadastrar</string>
+    <string name="title_register_item">Cadastro de Item</string>
 </resources>

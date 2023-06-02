@@ -51,12 +51,12 @@
         android:layout_marginBottom="72dp"
         android:backgroundTint="@color/teal_700"
         android:text="@string/store"
-        app:layout_constraintBottom_toTopOf="@+id/btDonation"
+        app:layout_constraintBottom_toTopOf="@+id/btRegister"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/btDonation"
+        android:id="@+id/btRegister"
         android:layout_width="197dp"
         android:layout_height="50dp"
         android:layout_marginStart="59dp"
@@ -64,7 +64,7 @@
         android:layout_marginEnd="94dp"
         android:layout_marginBottom="139dp"
         android:backgroundTint="@color/teal_700"
-        android:text="@string/history"
+        android:text="@string/register"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
